@@ -530,7 +530,7 @@
                             "flex justify-end items-center gap-[0.92vw] 3xl:gap-4 h-[2.66vw] 3xl:h-[46px]",
                           children: [
                             (0, s.jsx)("a", {
-                              href: "http://www.w3.org/2000/svg",
+                              href: "https://x.com/bitcoinpepeth",
                               target: "_blank",
                               className: "h-full max-lg:hidden",
                               children: (0, s.jsx)(a.Z, {
@@ -544,7 +544,7 @@
                               }),
                             }),
                             (0, s.jsx)("a", {
-                              href: "http://www.w3.org/2000/svg",
+                              href: "https://t.me/bitpepeeth",
                               target: "_blank",
                               className: "h-full max-lg:hidden",
                               children: (0, s.jsx)(a.Z, {
@@ -704,7 +704,7 @@
                                 className: "!size-[48px] px-0 bg-[#E3E3E3]",
                                 onClick: () => {
                                   window.open(
-                                    "http://www.w3.org/2000/svg",
+                                    "https://x.com/bitcoinpepeth",
                                     "_blank"
                                   );
                                 },
@@ -718,7 +718,7 @@
                                 className: "!size-[48px] px-0 bg-[#E3E3E3]",
                                 onClick: () => {
                                   window.open(
-                                    "http://www.w3.org/2000/svg",
+                                    "https://t.me/bitpepeeth",
                                     "_blank"
                                   );
                                 },
@@ -1864,7 +1864,7 @@
                 children: [
                   (0, s.jsxs)(B.Z, {
                     onClick: () => {
-                      window.open("http://www.w3.org/2000/svg", "_blank");
+                      window.open("https://t.me/bitpepeeth", "_blank");
                     },
                     className:
                       "lg:flex-1 bg-primary h-[40px] text-lg max-lg:h-[48px]",
@@ -1878,7 +1878,7 @@
                   }),
                   (0, s.jsxs)(B.Z, {
                     onClick: () => {
-                      window.open("http://www.w3.org/2000/svg", "_blank");
+                      window.open("https://x.com/bitcoinpepeth", "_blank");
                     },
                     className:
                       "lg:flex-1 bg-primary h-[40px] text-lg max-lg:h-[48px]",

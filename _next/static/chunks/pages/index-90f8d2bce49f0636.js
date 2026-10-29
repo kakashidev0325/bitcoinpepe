@@ -2356,7 +2356,7 @@
           (0, a.jsxs)(a.Fragment, {
             children: [
               (0, a.jsx)(ex, {
-                href: "https://x.com/bitcoinpepeonx",
+                href: "https://x.com/bitcoinpepeth",
                 children: (0, a.jsx)(es.kL, {
                   className: "fill-[#2AE3FE] size-[50%] lg:size-[60%]",
                 }),
@@ -2977,7 +2977,7 @@
                     className: "flex items-center gap-6",
                     children: [
                       (0, a.jsx)("a", {
-                        href: "https://x.com/bitcoinpepeonx",
+                        href: "https://x.com/bitcoinpepeth",
                         children: (0, a.jsx)(es.kL, {
                           className:
                             "fill-white hover:fill-primary w-[24px] h-auto cursor-pointer",
