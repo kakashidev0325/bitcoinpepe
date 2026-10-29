@@ -1012,7 +1012,7 @@
       var v = l(26691);
       function w(e) {
         let { isOpen: t, setIsOpen: l } = e,
-          a = "0xd2f57b51fc2d83325a639b707e7e41322e9d20b8",
+          a = "0x7fae52142bc5cc81c9d5c61399fe46331ec596a3",
           { t: n } = (0, f.$)();
         return (0, s.jsx)(g.Z, {
           show: t,
@@ -1165,7 +1165,7 @@
         function r() {
           a(!1);
         }
-        let o = "0xd2f57b51fc2d83325a639b707e7e41322e9d20b8";
+        let o = "0x7fae52142bc5cc81c9d5c61399fe46331ec596a3";
         return (0, s.jsx)(j.u, {
           show: l,
           as: h.Fragment,
@@ -1715,7 +1715,7 @@
                               E(),
                                 v.g.info("CA copied!"),
                                 navigator.clipboard.writeText(
-                                  "0xd2f57b51fc2d83325a639b707e7e41322e9d20b8"
+                                  "0x7fae52142bc5cc81c9d5c61399fe46331ec596a3"
                                 );
                             },
                             children: [
@@ -1765,7 +1765,7 @@
                                       className:
                                         "text-xs font-semibold font-museo",
                                       children:
-                                        "0xd2f57b51fc2d83325a639b707e7e41322e9d20b8",
+                                        "0x7fae52142bc5cc81c9d5c61399fe46331ec596a3",
                                     }),
                                   ],
                                 }),
