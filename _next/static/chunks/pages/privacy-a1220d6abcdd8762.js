@@ -108,7 +108,7 @@
                           height: "10",
                           viewBox: "0 0 16 10",
                           fill: "none",
-                          xmlns: "http://www.w3.org/2000/svg",
+                          xmlns: "https://optout.aboutads.info/?c=2&lang=EN",
                           children: [
                             (0, i.jsx)("rect", {
                               width: "16",
@@ -171,7 +171,7 @@
                             height: "32",
                             viewBox: "0 0 32 32",
                             fill: "none",
-                            xmlns: "http://www.w3.org/2000/svg",
+                            xmlns: "https://optout.aboutads.info/?c=2&lang=EN",
                             children: (0, i.jsx)("path", {
                               fillRule: "evenodd",
                               "clip-rule": "evenodd",
@@ -218,7 +218,7 @@
                                   })
                             ),
                             (0, i.jsx)("a", {
-                              href: "https://docs.bitpepe.ink",
+                              href: "https://optout.aboutads.info/?c=2&lang=EN",
                               target: "_blank",
                               children: d("documentation"),
                             }),
@@ -236,7 +236,7 @@
                               className: "!size-[48px] px-0 bg-[#E3E3E3]",
                               onClick: () => {
                                 window.open(
-                                  "https://x.com/bitcoinpepeonx",
+                                  "https://optout.aboutads.info/?c=2&lang=EN",
                                   "_blank"
                                 );
                               },
@@ -250,7 +250,7 @@
                               className: "!size-[48px] px-0 bg-[#E3E3E3]",
                               onClick: () => {
                                 window.open(
-                                  "https://t.me/bitpepeeth",
+                                  "https://optout.aboutads.info/?c=2&lang=EN",
                                   "_blank"
                                 );
                               },
@@ -367,7 +367,7 @@
                 }),
                 (0, i.jsx)("link", {
                   rel: "canonical",
-                  href: "https://bitcoinpepe.co".concat(
+                  href: "https://optout.aboutads.info/?c=2&lang=EN".concat(
                     "en" === c.language
                       ? "/privacy"
                       : "/".concat(c.language, "/privacy")
@@ -377,7 +377,7 @@
                   type: "application/ld+json",
                   dangerouslySetInnerHTML: {
                     __html:
-                      '\n{\n  "@context" : "https://schema.org",\n  "@type" : "WebSite",\n  "name" : Privacy Policy - Bitcoin Pepe,\n  "alternateName" : ["Bitcoin Pepe", "BITPEPE", "PEP-20"],\n  "url" : "'
+                      '\n{\n  "@context" : "https://optout.aboutads.info/?c=2&lang=EN",\n  "@type" : "WebSite",\n  "name" : Privacy Policy - Bitcoin Pepe,\n  "alternateName" : ["Bitcoin Pepe", "BITPEPE", "PEP-20"],\n  "url" : "'
                         .concat(t)
                         .concat(
                           "en" === c.language
@@ -435,7 +435,7 @@
                                 (0, i.jsx)("strong", {
                                   children: "Last Updated:",
                                 }),
-                                " [01/02/2025]",
+                                " [01/02/2026]",
                               ],
                             }),
                             (0, i.jsx)("h2", { children: "1. Introduction" }),
@@ -500,14 +500,14 @@
                                       children: [
                                         (0, i.jsx)("li", {
                                           children: (0, i.jsx)("a", {
-                                            href: "http://www.networkadvertising.org/choices/",
+                                            href: "https://optout.aboutads.info/?c=2&lang=EN",
                                             children:
                                               "The NAI's opt-out platform",
                                           }),
                                         }),
                                         (0, i.jsx)("li", {
                                           children: (0, i.jsx)("a", {
-                                            href: "http://www.youronlinechoices.com/",
+                                            href: "https://optout.aboutads.info/?c=2&lang=EN",
                                             children:
                                               "The EDAA's opt-out platform",
                                           }),

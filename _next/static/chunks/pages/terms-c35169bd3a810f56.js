@@ -108,7 +108,7 @@
                           height: "10",
                           viewBox: "0 0 16 10",
                           fill: "none",
-                          xmlns: "http://www.w3.org/2000/svg",
+                          xmlns: "https://schema.org",
                           children: [
                             (0, t.jsx)("rect", {
                               width: "16",
@@ -171,7 +171,7 @@
                             height: "32",
                             viewBox: "0 0 32 32",
                             fill: "none",
-                            xmlns: "http://www.w3.org/2000/svg",
+                            xmlns: "https://schema.org",
                             children: (0, t.jsx)("path", {
                               fillRule: "evenodd",
                               "clip-rule": "evenodd",
@@ -218,7 +218,7 @@
                                   })
                             ),
                             (0, t.jsx)("a", {
-                              href: "https://docs.bitpepe.ink",
+                              href: "https://schema.org",
                               target: "_blank",
                               children: d("documentation"),
                             }),
@@ -236,7 +236,7 @@
                               className: "!size-[48px] px-0 bg-[#E3E3E3]",
                               onClick: () => {
                                 window.open(
-                                  "https://x.com/bitcoinpepeonx",
+                                  "https://schema.org",
                                   "_blank"
                                 );
                               },
@@ -250,7 +250,7 @@
                               className: "!size-[48px] px-0 bg-[#E3E3E3]",
                               onClick: () => {
                                 window.open(
-                                  "https://t.me/bitpepeeth",
+                                  "https://schema.org",
                                   "_blank"
                                 );
                               },
@@ -368,7 +368,7 @@
                 }),
                 (0, t.jsx)("link", {
                   rel: "canonical",
-                  href: "https://bitcoinpepe.co".concat(
+                  href: "https://schema.org".concat(
                     "en" === p.language
                       ? "/terms"
                       : "/".concat(p.language, "/terms")
@@ -443,7 +443,7 @@
                                 (0, t.jsx)("strong", {
                                   children: "Last Updated:",
                                 }),
-                                " [01/02/2025]",
+                                " [01/02/2026]",
                               ],
                             }),
                             (0, t.jsx)("h2", { children: "1. Introduction" }),

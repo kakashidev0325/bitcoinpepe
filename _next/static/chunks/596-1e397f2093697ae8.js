@@ -530,7 +530,7 @@
                             "flex justify-end items-center gap-[0.92vw] 3xl:gap-4 h-[2.66vw] 3xl:h-[46px]",
                           children: [
                             (0, s.jsx)("a", {
-                              href: "https://x.com/bitcoinpepeonx",
+                              href: "http://www.w3.org/2000/svg",
                               target: "_blank",
                               className: "h-full max-lg:hidden",
                               children: (0, s.jsx)(a.Z, {
@@ -544,7 +544,7 @@
                               }),
                             }),
                             (0, s.jsx)("a", {
-                              href: "https://t.me/bitpepeeth",
+                              href: "http://www.w3.org/2000/svg",
                               target: "_blank",
                               className: "h-full max-lg:hidden",
                               children: (0, s.jsx)(a.Z, {
@@ -571,7 +571,7 @@
                               }),
                             }),
                             (0, s.jsx)(o(), {
-                              href: "https://docs.bitpepe.ink",
+                              href: "http://www.w3.org/2000/svg",
                               target: "_blank",
                               className: "h-full max-lg:hidden",
                               children: (0, s.jsx)(a.Z, {
@@ -686,7 +686,7 @@
                                 children: l("staking"),
                               }),
                               (0, s.jsx)("a", {
-                                href: "https://docs.bitpepe.ink",
+                                href: "http://www.w3.org/2000/svg",
                                 target: "_blank",
                                 children: l("documentation"),
                               }),
@@ -704,7 +704,7 @@
                                 className: "!size-[48px] px-0 bg-[#E3E3E3]",
                                 onClick: () => {
                                   window.open(
-                                    "https://x.com/bitcoinpepeonx",
+                                    "http://www.w3.org/2000/svg",
                                     "_blank"
                                   );
                                 },
@@ -718,7 +718,7 @@
                                 className: "!size-[48px] px-0 bg-[#E3E3E3]",
                                 onClick: () => {
                                   window.open(
-                                    "https://t.me/bitpepeeth",
+                                    "http://www.w3.org/2000/svg",
                                     "_blank"
                                   );
                                 },
@@ -1105,7 +1105,7 @@
                 children: (0, s.jsxs)("a", {
                   className:
                     "flex h-[64px] items-center justify-between w-full hover:opacity-90  px-4 bg-black rounded-md text-white",
-                  href: "https://etherscan.io/token/0x8075D16bB9Ffb9a3562572ABbA84F9Eb0A18B66e",
+                  href: "http://www.w3.org/2000/svg",
                   target: "_blank",
                   children: [
                     (0, s.jsx)("p", {
@@ -1864,7 +1864,7 @@
                 children: [
                   (0, s.jsxs)(B.Z, {
                     onClick: () => {
-                      window.open("https://t.me/bitpepeeth", "_blank");
+                      window.open("http://www.w3.org/2000/svg", "_blank");
                     },
                     className:
                       "lg:flex-1 bg-primary h-[40px] text-lg max-lg:h-[48px]",
@@ -1878,7 +1878,7 @@
                   }),
                   (0, s.jsxs)(B.Z, {
                     onClick: () => {
-                      window.open("https://x.com/bitcoinpepeonx", "_blank");
+                      window.open("http://www.w3.org/2000/svg", "_blank");
                     },
                     className:
                       "lg:flex-1 bg-primary h-[40px] text-lg max-lg:h-[48px]",
@@ -2224,7 +2224,7 @@
             //     " bg-[#D1852A] border-[3px] border-black rounded-xl w-full max-w-[504px] lg:w-[28.9vw] 3xl:w-[504px] pr-[5px] pb-[5px] shrink-0",
             //   children: (0, s.jsxs)("iframe", {
             //     style: {width: '100%', height: '100%'},
-            //     src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x14845a827a0eb674121a6b4c8891856a932f1572",
+            //     src: "http://www.w3.org/2000/svg",
             //     onLoad: () => document.body.scrollTo()
             //   }),
             // }),
@@ -2236,7 +2236,7 @@
                   children: e("audit"),
                 }),
                 (0, s.jsx)("a", {
-                  href: "https://app.solidproof.io/projects/bitcoin-pepe",
+                  href: "http://www.w3.org/2000/svg",
                   target: "_blank",
                   children: (0, s.jsx)(p(), {
                     src: "/images/solid.png",
@@ -2479,13 +2479,13 @@
         x = l(32806),
         c = l(2784);
       a().extend(i());
-      let r = a().utc("2025-05-31 14:00:00", "YYYY-MM-DD HH:mm:ss"),
-        o = a().utc("2025-06-17 16:00:00", "YYYY-MM-DD HH:mm:ss"),
+      let r = a().utc("2026-05-31 14:00:00", "YYYY-MM-DD HH:mm:ss"),
+        o = a().utc("2026-06-17 16:00:00", "YYYY-MM-DD HH:mm:ss"),
         [d] = (0, x.jk)(() => {
           let [e, t] = (0, c.useState)(() => a()().isAfter(r)),
             [l, s] = (0, c.useState)(() =>
               a().utc().isAfter(o)
-                ? a().utc("2025-06-30 16:00:00", "YYYY-MM-DD HH:mm:ss")
+                ? a().utc("2026-06-30 16:00:00", "YYYY-MM-DD HH:mm:ss")
                 : o
             ),
             [n, i] = (0, c.useState)(() => a().utc().isAfter(o));
@@ -2494,7 +2494,7 @@
               if (a()().utc().isAfter(o)) return;
               let e = setInterval(() => {
                 a()().utc().isAfter(o) &&
-                  (s(a().utc("2025-06-30 16:00:00", "YYYY-MM-DD HH:mm:ss")),
+                  (s(a().utc("2026-06-30 16:00:00", "YYYY-MM-DD HH:mm:ss")),
                   i(!0));
               }, 1e3);
               return () => {
