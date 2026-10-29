@@ -558,7 +558,7 @@
                               }),
                             }),
                             (0, s.jsx)(o(), {
-                              href: "/staking",
+                              href: "#", style: { display: "none" },
                               className: "h-full",
                               children: (0, s.jsx)(a.Z, {
                                 theme: "white",
@@ -682,7 +682,7 @@
                                 )
                               ),
                               (0, s.jsx)(o(), {
-                                href: "/staking",
+                                href: "#", style: { display: "none" },
                                 children: l("staking"),
                               }),
                               (0, s.jsx)("a", {

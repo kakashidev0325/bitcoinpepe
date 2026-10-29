@@ -155,7 +155,7 @@
           alt: "be in crypto",
           width: 92,
           height: 24,
-          link: "https://es.ambcrypto.com/bitcoin-pepe-esta-preparado-para-los-listados-de-cex-la-presale-alcanza-42-millones-de-dolares/",
+          link: "https://es.ambcrypto.com/bitcoin-pepe-esta-preparado-para-los-listados-de-cex-la-launch-alcanza-42-millones-de-dolares/",
         },
         {
           src: "/images/home/media/coin-gape.svg",
@@ -239,7 +239,7 @@
           alt: "blockchain-magazine",
           width: 132,
           height: 66,
-          link: "https://blockchainmagazine.com/sponsored/bitcoin-pepe-hype-surges-while-solaxy-presale-fades/",
+          link: "https://blockchainmagazine.com/sponsored/bitcoin-pepe-hype-surges-while-solaxy-launch-fades/",
         },
         {
           src: "/images/home/media/coin-codex.svg",
@@ -267,7 +267,7 @@
           alt: "bitcoinnews.ch",
           width: 50,
           height: 50,
-          link: "https://bitcoinnews.ch/47057/solana-on-bitcoin-bricht-mit-39-millionen-us-dollar-im-bitcoin-pepe-presale-rekorde/",
+          link: "https://bitcoinnews.ch/47057/solana-on-bitcoin-bricht-mit-39-millionen-us-dollar-im-bitcoin-pepe-launch-rekorde/",
         },
         {
           src: "/images/home/media/coinaute.svg",
@@ -344,7 +344,7 @@
           alt: "The Crypto Updates",
           width: 60,
           height: 24,
-          link: "https://www.thecryptoupdates.com/best-crypto-presale-with-altseason-index-still-below-25/",
+          link: "https://www.thecryptoupdates.com/best-crypto-launch-with-altseason-index-still-below-25/",
         },
         {
           src: "/images/media/TronWeekly.png",
@@ -1114,7 +1114,7 @@
             {
               url: "https://www.youtube.com/watch?v=_Zoy6bqVsho",
               image: "/images/blog/video2.jpg",
-              title: "Bitcoin Pepe New Meme Coin Crypto Presale! ",
+              title: "Bitcoin Pepe Live on Ethereum",
             },
             {
               url: "https://www.cryptopolitan.com/bitcoin-pepe-price-prediction-could-it-hit-1-50-after-t1-launches/",

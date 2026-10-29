@@ -45,7 +45,7 @@
             { name: d("tokenomics"), href: "tokenomics" },
             { name: d("giveaway"), href: "giveaway" },
             { name: d("meetTheTeam"), href: "team" },
-            { name: d("staking"), to: "/staking" },
+            { name: "", to: "#", hidden: true },
           ],
           [N, k] = (0, u.useState)(!1),
           [P, _] = (0, u.useState)(!1),

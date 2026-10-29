@@ -45,7 +45,7 @@
             { name: d("tokenomics"), href: "tokenomics" },
             { name: d("giveaway"), href: "giveaway" },
             { name: d("meetTheTeam"), href: "team" },
-            { name: d("staking"), to: "/staking" },
+            { name: "", to: "#", hidden: true },
           ],
           [k, P] = (0, x.useState)(!1),
           [N, B] = (0, x.useState)(!1),
@@ -492,7 +492,7 @@
                                 (0, t.jsxs)("ul", {
                                   children: [
                                     (0, t.jsx)("li", {
-                                      children: "Presale: 50% (1.05B)",
+                                      children: "Launch: 50% (1.05B)",
                                     }),
                                     (0, t.jsx)("li", {
                                       children: "Staking & Rewards: 15% (315M)",
@@ -515,7 +515,7 @@
                             }),
                             (0, t.jsx)("p", {
                               children:
-                                "The presale will run for 90 days in 30 stages, with incremental price increases per stage.",
+                                "The launch will run for 90 days in 30 stages, with incremental price increases per stage.",
                             }),
                             (0, t.jsx)("p", {
                               children:
