@@ -544,7 +544,7 @@
                               }),
                             }),
                             (0, s.jsx)("a", {
-                              href: "https://t.me/bitpepeeth",
+                              href: "https://t.me/btcpepe_tg",
                               target: "_blank",
                               className: "h-full max-lg:hidden",
                               children: (0, s.jsx)(a.Z, {
@@ -718,7 +718,7 @@
                                 className: "!size-[48px] px-0 bg-[#E3E3E3]",
                                 onClick: () => {
                                   window.open(
-                                    "https://t.me/bitpepeeth",
+                                    "https://t.me/btcpepe_tg",
                                     "_blank"
                                   );
                                 },
@@ -1864,7 +1864,7 @@
                 children: [
                   (0, s.jsxs)(B.Z, {
                     onClick: () => {
-                      window.open("https://t.me/bitpepeeth", "_blank");
+                      window.open("https://t.me/btcpepe_tg", "_blank");
                     },
                     className:
                       "lg:flex-1 bg-primary h-[40px] text-lg max-lg:h-[48px]",

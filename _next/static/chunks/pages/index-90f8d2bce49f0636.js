@@ -2984,7 +2984,7 @@
                         }),
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://t.me/bitpepeeth",
+                        href: "https://t.me/btcpepe_tg",
                         children: (0, a.jsx)(es.Yi, {
                           className:
                             "fill-white hover:fill-primary w-[24px] h-auto cursor-pointer",

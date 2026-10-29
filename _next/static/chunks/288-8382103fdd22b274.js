@@ -3469,7 +3469,7 @@
                               "Need help? Reach out via LiveChat or",
                               " ",
                               (0, n.jsx)("a", {
-                                href: "https://t.me/bitpepeeth",
+                                href: "https://t.me/btcpepe_tg",
                                 target: "_blank",
                                 className: "underline text-blue-500",
                                 children: "Telegram",
@@ -3494,7 +3494,7 @@
                               "Need help? Reach out via LiveChat or",
                               " ",
                               (0, n.jsx)("a", {
-                                href: "https://t.me/bitpepeeth",
+                                href: "https://t.me/btcpepe_tg",
                                 target: "_blank",
                                 className: "underline text-blue-500",
                                 children: "Telegram",
@@ -3517,7 +3517,7 @@
                               "Need help? Reach out via LiveChat or",
                               " ",
                               (0, n.jsx)("a", {
-                                href: "https://t.me/bitpepeeth",
+                                href: "https://t.me/btcpepe_tg",
                                 target: "_blank",
                                 className: "underline text-blue-500",
                                 children: "Telegram",
@@ -3546,7 +3546,7 @@
                               "Need help? Reach out via LiveChat or",
                               " ",
                               (0, n.jsx)("a", {
-                                href: "https://t.me/bitpepeeth",
+                                href: "https://t.me/btcpepe_tg",
                                 target: "_blank",
                                 className: "underline text-blue-500",
                                 children: "Telegram",
